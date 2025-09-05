@@ -47,6 +47,7 @@ To build an AI-based model that detects fraudulent cryptocurrency transactions b
 📊 Results
 
 <img width="838" height="179" alt="image" src="https://github.com/user-attachments/assets/88f27ab6-d1d7-47cd-8cfc-17a6006c2396" />
+https://github.com/Kota-Naga-Sankar-Balaji/BCT-Team-7-Project/blob/main/image.png
 
 * Random Forest achieved **higher recall**, detecting more fraud cases.
 * XGBoost achieved **better precision**, reducing false positives.
